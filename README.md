@@ -2,8 +2,10 @@
 
 # 💫 About Me:
 My best project is Chandler Travel Agency. 😊 
+<br>
 💭 Currently Learning Artificial Intelligence.
-<br><br>I'm Currently Working on Larin AI.
+<br>
+I'm Currently Working on Larin AI.
 
 
 ## 🌐 Socials:
