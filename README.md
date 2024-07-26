@@ -1,7 +1,9 @@
 ## Hi, I'm Nuran!
 
 # 💫 About Me:
-My best project is Chandler Travel Agency. 😊 💭 Currently Learning Artificial Intelligence.<br><br>I'm Currently Working on Larin AI.
+My best project is Chandler Travel Agency. 😊 
+💭 Currently Learning Artificial Intelligence.
+<br><br>I'm Currently Working on Larin AI.
 
 
 ## 🌐 Socials:
