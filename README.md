@@ -1,7 +1,7 @@
 ## Hi, I'm Nuran!
 
 # 💫 About Me:
-I'm Currently Learning Artificial Intelligence.<br><br>I'm Currently Working on Larin AI.
+☁️ I'm Currently Learning Artificial Intelligence.<br><br>I'm Currently Working on Larin AI.
 
 
 ## 🌐 Socials:
