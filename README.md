@@ -5,7 +5,7 @@
 <br>
 💭 Currently Learning Artificial Intelligence.
 <br>
-📚 I'm Currently Working on Larin AI.
+📚 Currently Working on Larin AI.
 <br>
 👨‍💻 Web Design involves the creation and arrangement of visual elements on a website to ensure usability, aesthetics, and functionality and sharing about my journey and learnings in tech.
 
