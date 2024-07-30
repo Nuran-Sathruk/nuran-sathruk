@@ -1,9 +1,9 @@
-## Hi, I'm Nuran!
+## Hi, I'm Nuran! 👋
 
 # 💫 About Me:
 😊 My best project is <a href="https://nuran-sathruk.github.io/Chandler-Agency-23-63-0045/">Chandler Travel Agency.</a>
 <br>
-💭 Currently Learning Artificial Intelligence and Data analytics.
+💭 Currently Learning Artificial Intelligence and data analytics.
 <br>
 📚 Currently Working on Larin AI.
 <br>
